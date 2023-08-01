@@ -35,7 +35,7 @@ default: #1a1b1c
 
 #515151
 
-#43493B
+#fcfcfd
 
 #867D7D
 
